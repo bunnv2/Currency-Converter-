@@ -1,0 +1,9 @@
+Biblioteka, która musimy pobrać, aby połączyć się ze stroną:
+https://requests.readthedocs.io/en/master/?fbclid=IwAR35iXa72n2BYsTmeyxlHWnhdFQmroZBIv6LjTsdhLb7lGNiYrj3suMwFEA
+
+Bibliotek, którą musimy pobrać, aby parsować HTML do Pythona
+https://www.crummy.com/software/BeautifulSoup/bs4/doc/?fbclid=IwAR09L9lnOXu9lVaUuxOBB74Midpyr-8te_B2462-SV18ZXjU3nApFaFC17A
+
+Tutoraiale, z których korzystaliśmy: 
+https://kamil.kwapisz.pl/web-scraping-python/?fbclid=IwAR2m5UY7sPMu46JU3fqfQDUGII5vBssz88TXAwQHTWaXyYjY9jln87F4dHc
+https://www.youtube.com/watch?v=kqtD5dpn9C8
