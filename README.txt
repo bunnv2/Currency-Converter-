@@ -1,1 +1,1 @@
-USD-GBP-EUR-PLN PYTHON CONVERTER, using beautifulSoup library
+USD-GBP-EUR-PLN PYTHON CONVERTER, using BeautifulSoup4 and Request libraries
