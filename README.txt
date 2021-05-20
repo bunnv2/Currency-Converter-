@@ -1,1 +1,1 @@
-WDI - E-004
+USD-GBP-EUR-PLN PYTHON CONVERTER, using beautifulSoup library
